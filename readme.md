@@ -13,3 +13,6 @@
 git config --global user.name "Geancarlos Chamorro Espinoza"
 
 '''
+### GIT
+
+Esta muy paja aprenderlo
