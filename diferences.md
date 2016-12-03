@@ -1,3 +1,3 @@
 ### Git diff
 
-git tiene muchos comandos
+git tiene muchos comandos Git
