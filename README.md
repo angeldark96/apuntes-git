@@ -22,3 +22,7 @@ Esta muy paja aprenderlo
 ### GIT - APORTE
 
 Este sera mi aporte desde otra cuenta en git
+
+### GIT - ERROR DE EMAIL
+
+Me olvide de cambiar el email global
