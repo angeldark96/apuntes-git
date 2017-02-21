@@ -1,3 +1,3 @@
-## Git tercera clase
+#Git tercera clase
 
 Con Daniel Romero

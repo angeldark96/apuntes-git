@@ -4,7 +4,7 @@ Con este comando vinculamos
 nuestro repositorio local
 con GitHub
 
-##Pasos para aportar a otro repositorio
+#Pasos para aportar a otro repositorio
 
 Hacer un fork en Github.
 Clonar el repositorio desde mi cuenta de Github.

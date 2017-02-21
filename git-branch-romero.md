@@ -1,4 +1,4 @@
-## Git Branch
+# Git Branch
 
 Las ramas que se crean apuntan al commit actual
 
