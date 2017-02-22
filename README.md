@@ -21,6 +21,7 @@ Esta muy paja aprenderlo
 
 ### GIT - APORTE
 
-Este sera mi aporte desde otra cuenta en git
+Este sera mi aporte desde otra cuenta en git 
+borrare esta linea
 
 
