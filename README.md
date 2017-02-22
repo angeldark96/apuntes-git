@@ -27,6 +27,3 @@ Este sera mi aporte desde otra cuenta en git
 
 Me olvide de cambiar el email global
 
-### Git - Varios repositorios remotos
-
-Podemos configurar un mismo proyectos para sincronizar cambios con varios repositorios

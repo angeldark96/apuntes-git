@@ -14,3 +14,8 @@ Confirmar los cambios realizados en local.
 Hacer push de mis cambios (enviar los commits locales a Github) git push origin nombre_rama.
 Crear un pull request con la nueva rama de mi repositorio en Github.
 Esperar que el administrador del repositorio original acepte mis cambios.
+
+### Git - Varios repositorios remotos
+
+Podemos configurar un mismo proyectos para sincronizar cambios con varios repositorios
+
